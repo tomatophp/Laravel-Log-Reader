@@ -1,5 +1,5 @@
 {
-    "name": "jackiedo/log-reader",
+    "name": "tomatophp/log-reader",
     "description": "An easy log reader and management tool for Laravel",
     "keywords": [
         "log",
